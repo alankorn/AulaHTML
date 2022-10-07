@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Comfortaa', cursive;
+    list-style-type: none;
+    text-decoration: none;
+    border: none;
+    
+
+}
+body{
+    margin: 0px;
+}
+
+h1{
+    color: aqua;
+}
+
+h2{
+    color: blueviolet;
+}
+
+h3{
+    color: chocolate;
+}
+
+header{
+    background-color: blueviolet;
+}
+
+nav ul li a {
+    color: white;
+    font-weight: 600;
+}
+
+section a, section button{
+    color: white;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 5px;
+    padding:11px 15px;
+    cursor: pointer;
+}
+
+footer{
+    background-color: aqua;
+}
+
+p{
+    display: inline-block;
+}
+
+#catioros{
+    background-color: aqua;
+    border: none;
+
+}
+
+#gatos{
+    background-color: blueviolet;
+    border: none;
+}
+
+footer > p{
+    text-align: center;
+}
+/*comentario para salvar*/
